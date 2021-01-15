@@ -1,0 +1,26 @@
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\bin\Debug\netcoreapp3.1\Fight.exe
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\bin\Debug\netcoreapp3.1\Fight.deps.json
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\bin\Debug\netcoreapp3.1\Fight.runtimeconfig.json
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\bin\Debug\netcoreapp3.1\Fight.runtimeconfig.dev.json
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\bin\Debug\netcoreapp3.1\Fight.dll
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\bin\Debug\netcoreapp3.1\Fight.pdb
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\obj\Debug\netcoreapp3.1\Fight.csprojAssemblyReference.cache
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\obj\Debug\netcoreapp3.1\Fight.AssemblyInfoInputs.cache
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\obj\Debug\netcoreapp3.1\Fight.AssemblyInfo.cs
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\obj\Debug\netcoreapp3.1\Fight.csproj.CoreCompileInputs.cache
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\obj\Debug\netcoreapp3.1\Fight.dll
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\obj\Debug\netcoreapp3.1\Fight.pdb
+C:\Users\philip.bernstrom\Desktop\Fighting Spel\Fight\obj\Debug\netcoreapp3.1\Fight.genruntimeconfig.cache
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\bin\Debug\netcoreapp3.1\Fight.exe
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\bin\Debug\netcoreapp3.1\Fight.deps.json
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\bin\Debug\netcoreapp3.1\Fight.runtimeconfig.json
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\bin\Debug\netcoreapp3.1\Fight.runtimeconfig.dev.json
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\bin\Debug\netcoreapp3.1\Fight.dll
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\bin\Debug\netcoreapp3.1\Fight.pdb
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\obj\Debug\netcoreapp3.1\Fight.csprojAssemblyReference.cache
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\obj\Debug\netcoreapp3.1\Fight.AssemblyInfoInputs.cache
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\obj\Debug\netcoreapp3.1\Fight.AssemblyInfo.cs
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\obj\Debug\netcoreapp3.1\Fight.csproj.CoreCompileInputs.cache
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\obj\Debug\netcoreapp3.1\Fight.dll
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\obj\Debug\netcoreapp3.1\Fight.pdb
+C:\Users\philip.bernstrom\Desktop\November prj (Spel)\Fight\obj\Debug\netcoreapp3.1\Fight.genruntimeconfig.cache
